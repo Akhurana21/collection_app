@@ -1,0 +1,19 @@
+Tracking ticket Structure
+1. Epic
+2. Stories
+3. Tasks
+---------
+Project Tracking tickets
+[M1] Scope Finalization
+[M2] User Story Creation
+[M3] User Story Sign-off
+  - [M3T1] Signoff by Product
+  - [M3T2] Signoff by CX
+  - [M3T3] Signoff by Engineering
+  - [M3T4] Signoff by CRE
+[M4] Stakeholder Identification
+[M5] Dev complete
+[M6] Internal RC
+[M7] Documentation
+[M8] GA
+[M9] Retro
